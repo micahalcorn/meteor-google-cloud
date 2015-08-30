@@ -2,7 +2,7 @@ Package.describe({
   name: 'micah:google-cloud',
   version: '0.0.1',
   summary: 'Wrapper for Node "gcloud" package',
-  git: '',
+  git: 'https://github.com/micahalcorn/meteor-google-cloud',
   documentation: 'README.md'
 });
 
